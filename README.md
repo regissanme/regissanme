@@ -1,26 +1,15 @@
 
 <div align="center">
 <h2> Olá Mundo!</h2>
-<h2> Bem-vindo(a)!</h2>
+<h4> Bem-vindo(a)!</h4>
 </div>
 </br>
 <div align="center">
   <h3>Me chamo Reginaldo Santos de Medeiros.</h3>
 </div>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/regissanme">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regissanme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regissanme&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
 </br>
  
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/regissanme/count.svg" /></p>
-
 
 
 ### Objetivo
