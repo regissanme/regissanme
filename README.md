@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Olá Mundo!</h2>
+<h1> Olá Mundo!</h1>
 <h4> Bem-vindo(a) ao meu espaço no GitHub!</h4>
 </div>
 </br>
