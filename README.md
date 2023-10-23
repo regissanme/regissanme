@@ -5,12 +5,14 @@
 </div>
 </br>
 
-### Me chamo Reginaldo Santos de Medeiros.
+### Me chamo Reginaldo Santos de Medeiros.   
 
 
-### Objetivo
-#### Utilizo este espaço para projetos e estudos de desenvolvimento de aplicações.
-#### Todo comentário é muito bem vindo!🤝
+
+
+Utilizo este espaço para projetos e estudos de desenvolvimento de aplicações.   
+
+Todo comentário é muito bem vindo!🤝
 
 </br> 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/regissanme/count.svg" /></p>
