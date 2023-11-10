@@ -47,7 +47,7 @@ Todo comentário é muito bem vindo!🤝
 [![Linkedin Badge](https://img.shields.io/badge/-Reginaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reginaldo-santos-de-medeiros-59517324/)](https://www.linkedin.com/in/reginaldo-santos-de-medeiros-59517324/) [![Gmail Badge](https://img.shields.io/badge/-rsanme@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsanme@gmail.com)](mailto:rsanme@gmail.com)
 
 
-![Regissanme's GitHub stats](https://github-readme-stats.vercel.app/api?username=regissanme&show_icons=true&theme=dark)
+![Regissanme's GitHub stats](https://github-readme-stats.vercel.app/api?username=regissanme&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regissanme&theme=dark)
 
