@@ -13,7 +13,9 @@ Bem-vindo(a) ao meu espaço no GitHub!
 
 Utilizo este espaço para projetos e estudos de desenvolvimento de aplicações.   
 
-Todo comentário é muito bem vindo!🤝
+Todo comentário é muito bem vindo!🤝   
+
+![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=regissanme&show_icons=true&theme=radical)
 
 </br> 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/regissanme/count.svg" /></p>
