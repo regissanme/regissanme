@@ -18,7 +18,12 @@ Todo comentário é muito bem vindo!🤝
 
 
 </br> 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/regissanme/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/regissanme/count.svg" /></p>   
+
+![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=regissanme&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regissanme&theme=dark)
 
 ### Principais Tecnologias de projetos e estudos:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
@@ -48,8 +53,5 @@ Todo comentário é muito bem vindo!🤝
 
 [![Linkedin Badge](https://img.shields.io/badge/-Reginaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reginaldo-santos-de-medeiros-59517324/)](https://www.linkedin.com/in/reginaldo-santos-de-medeiros-59517324/) [![Gmail Badge](https://img.shields.io/badge/-rsanme@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsanme@gmail.com)](mailto:rsanme@gmail.com)     
 
-![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=regissanme&show_icons=true&theme=radical)   
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regissanme&theme=dark)
 
