@@ -23,7 +23,7 @@ Todo comentário é muito bem vindo!🤝
 ![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=regissanme&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regissanme&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regissanme&theme=radical)
 
 ### Principais Tecnologias de projetos e estudos:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
